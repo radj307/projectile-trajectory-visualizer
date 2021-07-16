@@ -1,0 +1,4 @@
+temp/
+venv/Lib
+.idea
+__pycache__/
