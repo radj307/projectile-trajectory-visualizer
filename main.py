@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-import imageio
+import imageio.v2
 import utils
 
 g = 9.81

@@ -2,3 +2,4 @@ temp/
 venv/Lib
 .idea
 __pycache__/
+*.gif
